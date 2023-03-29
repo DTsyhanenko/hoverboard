@@ -1,0 +1,15 @@
+{
+  "name": "ts-todo-app",
+  "version": "1.0.0",
+  "description": "** If u have any problems with file pathes, here is the link to w3schools with explanation: https://www.w3schools.com/html/html_filepaths.asp",
+  "main": "script.js",
+  "scripts": {
+    "start": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
